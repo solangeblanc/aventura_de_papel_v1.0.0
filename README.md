@@ -11,11 +11,11 @@ El objetivo principal de esta versión fue lograr una estética de "cuaderno de 
 ## 🚀 Estado del Proyecto
 * **Motor de juego:** Construct 2.
 * **Despliegue:** Hosting gratuito vía GitHub Pages.
-* **Compatibilidad:** Optimizado para navegadores de escritorio y pruebas iniciales en móviles.
+* **Compatibilidad:** Optimizado para navegadores de escritorio.
 
 ## 🔗 Demo en Vivo
 Podés jugar esta versión original entrando al siguiente enlace:
 👉 [https://solangeblanc.github.io/aventura_de_papel_v1.0.1/](https://solangeblanc.github.io/aventura_de_papel_v1.0.1/)
 
 ---
-*Desarrollado por Solange Blanc como parte de un flujo de trabajo profesional con Git y metodologías de diseño UX/UI.*
+*Desarrollado por Solange Blanc como parte de un trabajo de la asignatura Desarrollo de simuladores 2d.*
